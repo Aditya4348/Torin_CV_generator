@@ -1,0 +1,5 @@
+{
+  "name": "THORIN CV Forge",
+  "description": "A modern, ATS-friendly CV generator with local storage, multi-step forms, and instant PDF export.",
+  "requestFramePermissions": []
+}
